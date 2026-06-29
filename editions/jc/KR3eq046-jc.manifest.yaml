@@ -1,0 +1,485 @@
+canonical_identifier: bkk:krp/KR3eq046/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eq046/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 醫學窮源集
+  identifiers:
+    krp: KR3eq046
+  tags:
+    kr-categories: KR3eq
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq046.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq046_000-jc.yaml, hash: 'sha256:7ea29295717d43605888d467366d200d645d8050f5215bf3c020aaba73e8f97e'}
+  - {seq: 1, filename: KR3eq046_001-jc.yaml, hash: 'sha256:d6e26c3872cc4a3d541ad653409f2f97fb75d46350ecbe839c6cd9ea357c65f1'}
+  - {seq: 2, filename: KR3eq046_002-jc.yaml, hash: 'sha256:d984c916f17eb151dd1b778375e894d8acffa89abfebc624a72f905b62f9cf4f'}
+  - {seq: 3, filename: KR3eq046_003-jc.yaml, hash: 'sha256:bfb4de061eb4aef738aa070aa76abc6bdfcb1e84719cd87890b8daaaab1880a6'}
+  - {seq: 4, filename: KR3eq046_004-jc.yaml, hash: 'sha256:4f7b63943e4e9262523fba1907bf07a1936316b79d64526b44bec37a3a5e0252'}
+  - {seq: 5, filename: KR3eq046_005-jc.yaml, hash: 'sha256:8e46c6532e4304d09b81af1eda982c40d10611bf120e13e5235e15b7e4c01df1'}
+  - {seq: 6, filename: KR3eq046_006-jc.yaml, hash: 'sha256:00d5b42276ccdf0f2b5c7b28812590e22e46a3df55a9c2b97b22e459df7f8e45'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq046_000-jc.markers.yaml, hash: 'sha256:4d6c7dd7e54ed78ea9831b77eba95be02b29eab52aca3e031cea89d3cda399d7'}
+  - {seq: 1, role: markers, filename: assets/KR3eq046_001-jc.markers.yaml, hash: 'sha256:ab4faa6f7edf7deaf285faa591c00c6ee50a2123978b68d8debd6e0a2bfb3e1f'}
+  - {seq: 2, role: markers, filename: assets/KR3eq046_002-jc.markers.yaml, hash: 'sha256:4e550d787069d5a7b5ca0496c32358bff65f6214937e93c32d32313f70753f01'}
+  - {seq: 3, role: markers, filename: assets/KR3eq046_003-jc.markers.yaml, hash: 'sha256:1dcafd0ae089d7115500b060e3959202328784f16ae4fe77eff5790336cf7930'}
+  - {seq: 4, role: markers, filename: assets/KR3eq046_004-jc.markers.yaml, hash: 'sha256:11b8242069dc9f6c6cdbbfb4e2409b012b75905aaba75464450eb524aace7189'}
+  - {seq: 5, role: markers, filename: assets/KR3eq046_005-jc.markers.yaml, hash: 'sha256:f5f334708107c1a3aac38424e56f6cb288ce75c7840181eff414c3682ae38506'}
+  - {seq: 6, role: markers, filename: assets/KR3eq046_006-jc.markers.yaml, hash: 'sha256:859887fce82839b59072c8137c723d01871c57be57c958192302cb132fb90b8f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq046_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 710
+  label: 湯序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq046_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 559
+  label: 原敘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq046_jc_000-d4.h1s1
+    span:
+    - body
+    - 559
+    - 783
+  label: 殷跋
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq046_jc_001-d5.h1s1
+    span:
+    - body
+    - 0
+    - 9313
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq046_jc_001-d5d4
+    span:
+    - body
+    - 2
+    - 258
+  label: 太虛圖論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq046_jc_001-d5d5
+    span:
+    - body
+    - 258
+    - 1196
+  label: 陰陽圖象論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq046_jc_001-d5d6
+    span:
+    - body
+    - 1196
+    - 1988
+  label: 五行論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq046_jc_001-d5d7
+    span:
+    - body
+    - 1988
+    - 3579
+  label: 元會運世論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq046_jc_001-d5d8
+    span:
+    - body
+    - 3579
+    - 4620
+  label: 三元運氣論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq046_jc_001-d5d9
+    span:
+    - body
+    - 4620
+    - 4832
+  label: 五天五運說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq046_jc_001-d5d10
+    span:
+    - body
+    - 4832
+    - 5080
+  label: 三圖總說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq046_jc_001-d5d11
+    span:
+    - body
+    - 5080
+    - 9313
+  label: 三圖總說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq046_jc_001-d5.d11d14
+    span:
+    - body
+    - 6208
+    - 6552
+  label: 上二圖解
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq046_jc_001-d5.d11d15
+    span:
+    - body
+    - 6552
+    - 7305
+  label: 上二圖說
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq046_jc_001-d5.d11d16
+    span:
+    - body
+    - 7305
+    - 7884
+  label: 圖解
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq046_jc_001-d5.d11d17
+    span:
+    - body
+    - 7884
+    - 8814
+  label: 圖解
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq046_jc_001-d5.d11d18
+    span:
+    - body
+    - 8814
+    - 9313
+  label: 上二圖解
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eq046_jc_002-d6.h1s1
+    span:
+    - body
+    - 0
+    - 15227
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eq046_jc_002-d6d4
+    span:
+    - body
+    - 2
+    - 655
+  label: 太乙移宮說
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq046_jc_002-d6d5
+    span:
+    - body
+    - 655
+    - 3186
+  label: 左右升降不前司天不遷正不退位解
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq046_jc_002-d6.d5d8
+    span:
+    - body
+    - 2635
+    - 3186
+  label: 附疫由人事論
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eq046_jc_002-d6d6
+    span:
+    - body
+    - 3186
+    - 5254
+  label: 運氣總論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq046_jc_002-d6.d6d4
+    span:
+    - body
+    - 4895
+    - 5254
+  label: 附化數生成說
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eq046_jc_002-d6d7
+    span:
+    - body
+    - 5254
+    - 5571
+  label: 流年災宮說九宮見前圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq046_jc_002-d6d8
+    span:
+    - body
+    - 5571
+    - 7080
+  label: 方月圖說
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq046_jc_002-d6.d8d4
+    span:
+    - body
+    - 6083
+    - 7080
+  label: 附山川方隅氣候不同論
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eq046_jc_002-d6d9
+    span:
+    - body
+    - 7080
+    - 9674
+  label: 脈說
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq046_jc_002-d6d10
+    span:
+    - body
+    - 9674
+    - 10182
+  label: 六氣本標中從化解附治病標本說
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq046_jc_002-d6.d10d4
+    span:
+    - body
+    - 10146
+    - 10182
+  label: 十二經氣血多少歌
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eq046_jc_002-d6d11
+    span:
+    - body
+    - 10182
+    - 11302
+  label: 六氣十二經相病說附傳經說
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq046_jc_002-d6d12
+    span:
+    - body
+    - 11302
+    - 11460
+  label: 經絡相交
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq046_jc_002-d6d13
+    span:
+    - body
+    - 11460
+    - 12851
+  label: 奇經八脈略
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq046_jc_002-d6d14
+    span:
+    - body
+    - 12851
+    - 13152
+  label: 奇經診法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq046_jc_002-d6d15
+    span:
+    - body
+    - 13152
+    - 14564
+  label: 藥說
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq046_jc_002-d6d16
+    span:
+    - body
+    - 14564
+    - 15227
+  label: 藥法摘錄
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq046_jc_003-d7.h1s1
+    span:
+    - body
+    - 0
+    - 14262
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eq046_jc_003-d7d2
+    span:
+    - body
+    - 2
+    - 14262
+  label: 木運年
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq046_jc_004-d8.h1s1
+    span:
+    - body
+    - 0
+    - 22553
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3eq046_jc_004-d8d2
+    span:
+    - body
+    - 2
+    - 22553
+  label: 火運年
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eq046_jc_005-d9.h1s1
+    span:
+    - body
+    - 0
+    - 17221
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3eq046_jc_005-d9d2
+    span:
+    - body
+    - 2
+    - 7633
+  label: 土運年
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eq046_jc_005-d9d3
+    span:
+    - body
+    - 7633
+    - 17221
+  label: 金運年
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3eq046_jc_006-d10.h1s1
+    span:
+    - body
+    - 0
+    - 15063
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3eq046_jc_006-d10d2
+    span:
+    - body
+    - 2
+    - 10142
+  label: 水運年
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3eq046_jc_006-d10d3
+    span:
+    - body
+    - 10142
+    - 15063
+  label: 水運年續編
+  type: section
+  level: 2
+hash: sha256:48ccbf63c109f8ec0060b734ce8f5b6ee76115880a67b82034c279324139d806
